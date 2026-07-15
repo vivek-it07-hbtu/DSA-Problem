@@ -32,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -82,4 +83,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
