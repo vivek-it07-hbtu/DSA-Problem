@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -31,12 +32,14 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## String
@@ -51,6 +54,7 @@
 | [0015-3sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0016-3sum-closest/) | Medium |
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -63,6 +67,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +87,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
