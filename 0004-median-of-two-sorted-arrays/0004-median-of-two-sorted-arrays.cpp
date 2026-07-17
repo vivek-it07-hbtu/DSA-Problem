@@ -31,7 +31,6 @@ public:
         {
             return res[size/2];
         }
-
-        return (res[size/2 - 1] + res[size/2]) / 2.0;
+        else return (res[size/2 - 1] + res[size/2]) / 2.0;
     }
 };
