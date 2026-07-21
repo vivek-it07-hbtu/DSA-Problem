@@ -37,6 +37,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -98,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0069-sqrtx](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0704-binary-search/) | Easy |
