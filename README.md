@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
@@ -100,6 +101,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0069-sqrtx/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0704-binary-search/) | Easy |
@@ -112,4 +114,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
