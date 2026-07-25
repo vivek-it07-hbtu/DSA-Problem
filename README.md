@@ -41,6 +41,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
