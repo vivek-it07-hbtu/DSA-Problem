@@ -5,20 +5,15 @@ public:
         if (x < 0)
             return false;
 
-        string s = to_string(x);
+        int original = x;
+        long long rev = 0;
 
-        int i = 0;
-        int j = s.size() - 1;
-
-        while (i < j) {
-
-            if (s[i] != s[j])
-                return false;
-
-            i++;
-            j--;
+        while (x > 0) {
+            int digit = x % 10;
+            rev = rev * 10 + digit;
+            x /= 10;
         }
 
-        return true;
+        return original == rev;
     }
 };
