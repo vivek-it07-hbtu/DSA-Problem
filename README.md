@@ -44,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -61,6 +62,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0058-length-of-last-word/) | Easy |
@@ -88,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
