@@ -50,6 +50,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -70,6 +71,7 @@
 | [0344-reverse-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0520-detect-capital](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0520-detect-capital/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
