@@ -30,6 +30,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2187-minimum-time-to-complete-trips](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [2187-minimum-time-to-complete-trips](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
