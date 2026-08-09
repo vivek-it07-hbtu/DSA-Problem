@@ -55,6 +55,7 @@
 | [0013-roman-to-integer](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -137,6 +138,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0367-valid-perfect-square](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0704-binary-search/) | Easy |
