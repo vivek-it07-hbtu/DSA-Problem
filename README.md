@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -105,6 +106,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0013-roman-to-integer/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
@@ -168,4 +170,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0020-valid-parentheses/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
