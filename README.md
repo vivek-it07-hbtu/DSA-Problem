@@ -21,6 +21,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -121,6 +122,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
@@ -128,6 +130,7 @@
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0392-is-subsequence/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +144,7 @@
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0367-valid-perfect-square/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0704-binary-search/) | Easy |
@@ -166,6 +170,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
