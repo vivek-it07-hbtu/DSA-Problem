@@ -28,6 +28,7 @@
 | [0704-binary-search](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -110,6 +111,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
