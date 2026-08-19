@@ -5,7 +5,6 @@ public:
         
         int left = 0;
         int ans = -1;
-        if(fruits.size()<2) return fruits.size();
 
         for (int right = 0; right < fruits.size(); right++) {
 
