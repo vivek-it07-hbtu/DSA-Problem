@@ -87,6 +87,7 @@
 | [0344-reverse-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0520-detect-capital](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0520-detect-capital/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -174,6 +175,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
