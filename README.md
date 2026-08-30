@@ -63,6 +63,7 @@
 | [0367-valid-perfect-square](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -75,6 +76,7 @@
 | [0078-subsets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -202,4 +204,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0022-generate-parentheses/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 <!---LeetCode Topics End-->
