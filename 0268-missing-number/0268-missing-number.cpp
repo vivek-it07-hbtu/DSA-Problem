@@ -13,11 +13,24 @@ public:
 
         // Mehtod 2 : Optimal solution
         //a ^ a = 0       a ^ 0 = a
-        int ans = n;
-        for (int i = 0; i < n; i++) {
-            ans ^= i;
-            ans ^= nums[i];
+        // int ans = n;
+        // for (int i = 0; i < n; i++) {
+        //     ans ^= i;
+        //     ans ^= nums[i];
+        // }
+        // return ans;
+
+        //cyclic Sort
+        int i = 0;
+        while(i<n){
+            int correctIdx=nums[i];
+            if(i==correctIdx || nums[i]==n) i++;
+            else swap(nums[i],nums[correctIdx]);
         }
-        return ans;
+        for(int i=0; i<n; i++){
+            if(nums[i]!=i) return i;
+        }
+        return n;
     }
+
 };
