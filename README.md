@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -119,6 +120,7 @@
 | [0001-two-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
