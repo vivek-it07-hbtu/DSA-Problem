@@ -2,26 +2,35 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
 
-        int left = 0;
+        int low = 0;
         int ans = 0;
 
-        int freq[26] = {0};
+        unordered_map<char, int> f;
 
         int maxFreq = 0;
 
-        for(int right = 0; right < s.size(); right++) {
+        for(int high = 0; high < s.size(); high++) {
+            // Add current character
+            f[s[high]]++;
 
-            freq[s[right] - 'A']++;
+            // Maximum frequency in current/past window
+            maxFreq = max(maxFreq, f[s[high]]);
 
-            maxFreq = max(maxFreq, freq[s[right] - 'A']);
+            int len = high - low + 1;
 
-            while((right - left + 1) - maxFreq > k) {
+            // Characters that need replacement
+            int diff = len - maxFreq;
 
-                freq[s[left] - 'A']--;
-                left++;
+            while(diff > k) {
+
+                f[s[low]]--;
+                low++;
+
+                len = high - low + 1;
+                diff = len - maxFreq;
             }
 
-            ans = max(ans, right - left + 1);
+            ans = max(ans, high - low + 1);
         }
 
         return ans;
