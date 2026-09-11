@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0041-first-missing-positive/) | Hard |
+| [0053-maximum-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -142,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -157,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0410-split-array-largest-sum/) | Hard |
