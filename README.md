@@ -56,6 +56,7 @@
 | [0455-assign-cookies](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -238,4 +239,5 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
