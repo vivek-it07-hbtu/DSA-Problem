@@ -49,6 +49,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0392-is-subsequence/) | Easy |
@@ -127,6 +128,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -229,9 +231,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/vivek-it07-hbtu/DSA-Problem/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
